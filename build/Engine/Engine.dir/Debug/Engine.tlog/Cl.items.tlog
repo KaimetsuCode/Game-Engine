@@ -1,8 +1,0 @@
-C:\Users\coder\Documents\Projects\Game Engine\build\Engine\CMakeFiles\Engine.dir\cmake_pch.cxx;C:\Users\coder\Documents\Projects\Game Engine\build\Engine\Engine.dir\Debug\cmake_pch.obj
-C:\Users\coder\Documents\Projects\Game Engine\Engine\src\Entity\Entity.cpp;C:\Users\coder\Documents\Projects\Game Engine\build\Engine\Engine.dir\Debug\Entity.obj
-C:\Users\coder\Documents\Projects\Game Engine\Engine\src\Entity\EntityManager.cpp;C:\Users\coder\Documents\Projects\Game Engine\build\Engine\Engine.dir\Debug\EntityManager.obj
-C:\Users\coder\Documents\Projects\Game Engine\Engine\src\Managers\TextureManager.cpp;C:\Users\coder\Documents\Projects\Game Engine\build\Engine\Engine.dir\Debug\TextureManager.obj
-C:\Users\coder\Documents\Projects\Game Engine\Engine\src\Renderer\Sprite.cpp;C:\Users\coder\Documents\Projects\Game Engine\build\Engine\Engine.dir\Debug\Sprite.obj
-C:\Users\coder\Documents\Projects\Game Engine\Engine\src\Shaders\Shader.cpp;C:\Users\coder\Documents\Projects\Game Engine\build\Engine\Engine.dir\Debug\Shader.obj
-C:\Users\coder\Documents\Projects\Game Engine\Engine\src\Window\Window.cpp;C:\Users\coder\Documents\Projects\Game Engine\build\Engine\Engine.dir\Debug\Window.obj
-C:\Users\coder\Documents\Projects\Game Engine\Engine\src\pch.cpp;C:\Users\coder\Documents\Projects\Game Engine\build\Engine\Engine.dir\Debug\pch.obj
