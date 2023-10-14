@@ -1,9 +1,20 @@
 {
     "configurations": [
         {
-            "name": "configs",
+            "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/windows/includes/**",
+                "${workspaceFolder}/engine/src/**"
+            ],
+            "defines": ["_DEBUG", "KAIM_EXPORT"],
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "${default}"
+        },
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/mac/includes/**",
                 "${workspaceFolder}/engine/src/**"
             ],
             "defines": ["_DEBUG", "KAIM_EXPORT"],

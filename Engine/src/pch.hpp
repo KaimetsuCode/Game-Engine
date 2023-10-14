@@ -12,8 +12,6 @@
 #include <SDL2/SDL_ttf.h>
 #include <SDL2/SDL_mixer.h>
 #include <SDL2/SDL_net.h>
-#include <GL/glew.h>
-#include <SDL2/SDL_opengl.h>
 
 // Export API
 

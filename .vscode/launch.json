@@ -2,7 +2,18 @@
     "version":"0.2.0",
     "configurations": [
         {
-            "name": "Windows",
+            "name": "Mac",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/build/bin/Game",
+            "args": [],
+            "cwd": "${workspaceRoot}/build/bin/",
+            "MIMode": "lldb",
+            "environment": [],
+            "externalConsole": false
+        },
+        {
+            "name": "Win32",
             "type": "cppvsdbg",
             "request": "launch",
             "console": "integratedTerminal",

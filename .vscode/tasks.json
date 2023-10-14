@@ -4,6 +4,7 @@
             "type": "shell",
             "label": "build everything",
             "windows": { "command": "./build-win.bat" },
+            "osx": { "command": "./build-mac.sh" },
             "problemMatcher": ["$gcc"],
             "options": { "cwd": "${workspaceFolder}" },
             "group": { "kind": "build", "isDefault": true }
