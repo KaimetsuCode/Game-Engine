@@ -14,3 +14,9 @@ I created this template to facilitate a smooth development experience across bot
 
 - Integration of Python into the starter template for easy python scripting
 - Out-of-the-box support for Emscripten (WebAssembly)
+
+### What it Does
+
+- **DLL Transformation**: Convert the `engine` folder into a dynamic link library (DLL), providing a modularized structure for essential engine mechanics.
+
+- **Executable Compilation**: Make the `game` folder into an executable, streamlining integration with the engine and simplifying the deployment process.
