@@ -13,3 +13,4 @@ I created this template to facilitate a smooth development experience across bot
 ## Future Features
 
 - Integration of Python into the starter template for easy python scripting
+- Out-of-the-box support for Emscripten (WebAssembly)
