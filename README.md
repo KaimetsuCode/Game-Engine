@@ -1,8 +1,15 @@
-# Starter template for SDL2
-Simple starter project for SDL2, works with VSCode out of the box however with cmake can be used with any text editor. 
-#Why did i make this?
-I like working between Mac and Windows
-# Requirements
+# SDL2 Starter Template
+
+A simple starter project for SDL2, designed to seamlessly work with VSCode out of the box. Additionally, it can be configured with CMake, making it compatible with any text editor.
+
+## Motivation
+
+I created this template to facilitate a smooth development experience across both Mac and Windows platforms.
+
+## Requirements
+
 - CMake
-# Future Features
-- Embed Python into starter template
+
+## Future Features
+
+- Integration of Python into the starter template for easy python scripting
